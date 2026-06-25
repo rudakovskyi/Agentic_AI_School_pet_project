@@ -17,3 +17,4 @@ This project analyzes historical air raid alert events in Kyiv — examining how
 - Python (Jupyter Notebook)
 - pandas, matplotlib / seaborn (data processing and visualization)
 
+The branch Air-raid-alert-analysis-with-Telegram-data contains notebooks aimed at analyzing publicly available data from news Telegram channels on the missiles and UAVs used in attacks against Kyiv.
